@@ -11,7 +11,6 @@
 ## 💼 About Me
 
 - 🔭 I work in a sports analytics company. Also freelancing and contributing to startup and open-source projects.
-- 🌱 Currently learning: async Python, Git internals, i18n with Fluentogram.
 - 🧰 **Tech Stack**:
   - Main Language: `Python 3`
   - Also Using: `JavaScript`, `C`
