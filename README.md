@@ -12,7 +12,7 @@
 
 - 🔭 I work in a sports analytics company. Also freelancing and contributing to startup and open-source projects.
 - 🧰 **Tech Stack**:
-  - Main Language: `Python 3`
+  - Main Language: `Python`
   - Also Using: `JavaScript`, `C`
   - Framework: `Django`
   - Databases: `PostgreSQL`, `SQLite`, `Redis`
