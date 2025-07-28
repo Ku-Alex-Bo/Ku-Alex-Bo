@@ -2,7 +2,7 @@
 
 <p align="center">
   ⚙️ Web Backend · 🐍 Python / Django <br>
-  🤖 Telegram Bots / Aiogram <br>
+  🤖 Telegram Bots · Aiogram <br>
   🕷️ Parsing · BS4 / Selenium / Scrapy
 </p>
 
