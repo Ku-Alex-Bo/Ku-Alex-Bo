@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Alex 👋</h1>
 
 <p align="center">
-  ⚙️ Web Backend · 🐍 Python / Django · 🤖 Telegram Bots / Aiogram <br>
+  ⚙️ Web Backend · 🐍 Python / Django <br>
+  🤖 Telegram Bots / Aiogram <br>
   🕷️ Parsing · BS4 / Selenium / Scrapy
 </p>
 
