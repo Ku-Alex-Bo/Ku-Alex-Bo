@@ -17,7 +17,7 @@
   - Framework: `Django`
   - Databases: `PostgreSQL`, `SQLite`, `Redis`
   - Deployment: `Docker`, `Nginx`, `Gunicorn`
-  - OS: `Linux`
+  - OS: `Linux Ubuntu`
   - Other Tools: `Celery`, `Git`
 
 ---
