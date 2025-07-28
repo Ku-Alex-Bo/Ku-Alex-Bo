@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Alex 👋</h1>
 
-<!--
-**Ku-Alex-Bo/Ku-Alex-Bo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  ⚙️ Web Backend · 🐍 Python / Django · 🤖 Telegram Bots / Aiogram <br>
+  🕷️ Parsing · BS4 / Selenium / Scrapy
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 About Me
+
+- 🔭 I work in a sports analytics company. Also freelancing and contributing to startup and open-source projects.
+- 🌱 Currently learning: async Python, Git internals, i18n with Fluentogram.
+- 🧰 **Tech Stack**:
+  - Main Language: `Python 3`
+  - Also Using: `JavaScript`, `C`
+  - Framework: `Django`
+  - Databases: `PostgreSQL`, `SQLite`, `Redis`
+  - Deployment: `Docker`, `Nginx`, `Gunicorn`
+  - OS: `Linux`
+  - Other Tools: `Celery`, `Git`
+
+---
+
+## 🧠 My Projects
+
+| Name | Description | Stack |
+|------|-------------|-------|
+| [sportarea] | Full-stack project: database of sport sources ([Demo](https://sportarea.online)) | DRF, PostgreSQL, Vue3 |
+
+---
+
+## 🌐 Socials
+
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram)](https://t.me/NightJuly)
