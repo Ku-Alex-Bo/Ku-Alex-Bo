@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Alex 👋</h1>
+<h1 align="center">Hi, I'm Aleksandr Kuznetsov 👋</h1>
 
 <p align="center">
   ⚙️ Web Backend · 🐍 Python / Django <br>
