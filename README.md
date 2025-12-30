@@ -11,15 +11,15 @@
 ## 💼 About Me
 
 - 🔭 I work in a sports analytics company. Also freelancing and contributing to startup and open-source projects.
-- 🧰 **Tech Stack**:
-  - Main Language: `Python`
-  - Also Using: `JavaScript`, `C`
-  - Framework: `Django`
-  - Databases: `PostgreSQL`, `SQLite`, `Redis`
-  - Deployment: `Docker`, `Nginx`, `Gunicorn`
-  - OS: `Linux Ubuntu`
-  - Other Tools: `Celery`, `Git`
-
+### 🧰 Tech Stack
+- **Main Language**: `Python`
+- **Also Using**: `JavaScript`, `C`
+- **Frameworks**: `Django`, `DRF`, `Aiogram`
+- **Databases**: `PostgreSQL`, `SQLite`, `Redis`
+- **Async / Tasks**: `Celery`
+- **Deployment**: `Docker`, `Nginx`, `Gunicorn`
+- **OS**: `Linux (Ubuntu)`
+- **Other**: `Git`, `pytest`, `Sphinx`
 ---
 
 ## 🧠 My Projects
