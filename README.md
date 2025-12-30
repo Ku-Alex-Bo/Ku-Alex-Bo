@@ -26,8 +26,8 @@
 
 | Name | Description | Stack |
 |------|-------------|-------|
-| **Serbuddy**  | Backend API and Telegram bot for Serbian language learning ([Demo](https://t.me/SerBuddyBot)) | Django, DRF, PostgreSQL, Redis, Aiogram, Docker |
-| **SportArea** | Full-stack project: database of sport sources ([Demo](https://sportarea.online)) | DRF, PostgreSQL, Vue3 |
+| **Serbuddy**  | Backend API and Telegram bot for Serbian language learning ([Demo](https://t.me/SerBuddyBot)) | Django, DRF, PostgreSQL, Redis, Celery, Aiogram, Docker |
+| **SportArea** | Full-stack project: database of sport sources ([Demo](https://sportarea.online)) | Django, DRF, PostgreSQL, Redis, Celery, Docker, Vue3 |
 
 ---
 
